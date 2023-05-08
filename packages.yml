@@ -1,0 +1,4 @@
+packages:
+  - package: gitlabhq/snowflake_spend
+    version: 1.2.0
+  
